@@ -1,0 +1,96 @@
+Latitude: -7.912360199999999
+Longitude: 111.48722090000001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Altitude: null
+Accuracy: 4975
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 8
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
+Latitude: -7.912360199999999
+Longitude: 111.48722090000001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Altitude: null
+Accuracy: 4975
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 8
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
+Latitude: -7.912300199999999
+Longitude: 111.48722090000001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Altitude: null
+Accuracy: 4973
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 8
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
+Latitude: -7.8983166
+Longitude: 111.4870229
+User-Agent: Mozilla/5.0 (Linux; Android 5.1; A33w) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+Altitude: null
+Accuracy: 2599.9990234375
+Speed: null
+Heading: null
+Platform: Linux armv7l
+Cores: 4
+Memory: 1
+Screen Height: 640
+Screen Width: 360
+Latitude: -7.9039644
+Longitude: 111.49269319999999
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+Altitude: null
+Accuracy: 141
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 8
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
+Latitude: -7.9018559
+Longitude: 111.4912122
+User-Agent: Mozilla/5.0 (Linux; Android 10; vivo 1919) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Mobile Safari/537.36
+Altitude: 141.39999389648438
+Accuracy: 22.5
+Speed: null
+Heading: null
+Platform: Linux armv8l
+Cores: 8
+Memory: 8
+Screen Height: 800
+Screen Width: 360
+Latitude: -7.9124003
+Longitude: 111.48722090000001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+Altitude: null
+Accuracy: 4977
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 8
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
+Latitude: -7.901904
+Longitude: 111.4911609
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+Altitude: null
+Accuracy: 20
+Speed: null
+Heading: null
+Platform: Win32
+Cores: 8
+Memory: 4
+Screen Height: 768
+Screen Width: 1366
